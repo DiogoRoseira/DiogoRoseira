@@ -12,17 +12,18 @@
 
 ### Skills 😜
 <div style="display: inline_block">
-  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="50" width="60" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
-  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="29" width="35" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right"  height="140" width="auto" src="https://cdn.discordapp.com/attachments/654349154545434647/947993400689446912/coding.gif">
 </div>
 
 ### Learning ⚙
 <div style="display: inline_block">
-  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 </div>
 
 ---
@@ -37,32 +38,6 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-
-<table><tr><td valign="top" width="50%">
-
-### Skills 😜
-<div align="center">  
-  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="50" width="60" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
-  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-</div>
-
-</td><td valign="top" width="50%">
-
-### Learning ⚙ 
-<div align="center">  
-  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"> 
-</div>
-
-</td></tr></table>  
-
-
-
-
 
 <div align="center">
   <a href="https://github.com/DiogoRoseira">
