@@ -3,7 +3,7 @@
 
 - 📈 2022: New projects soon
 - 🎓 Student
-- ⚡ Computer and Eletronics Researcher
+- ⚡ Computer and Eletronics Lover
 - 💻 Programmer 
 
 ---
