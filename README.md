@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="75" width="75" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
+  <img align="center" height="50" width="60" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
   <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
