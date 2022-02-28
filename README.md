@@ -2,7 +2,7 @@
 ### Industrial Electronic Engineering and Computers at UMinho University! ⚡💻
 
 - 📈 2022: New projects soon
-- 🎓 3rd year Student
+- 🎓 Student
 - ⚡ Computer and Eletronics Researcher
 - 💻 Programmer 
 
@@ -18,16 +18,16 @@
   <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-### To Learn ⚙
+### Learning ⚙
 <div style="display: inline_block">
+  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ---
 
-## Tools I usually use:
+## Tools:
 
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -37,6 +37,32 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+
+<table><tr><td valign="top" width="50%">
+
+### Skills 😜
+<div align="center">  
+  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="50" width="60" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
+  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+</div>
+
+</td><td valign="top" width="50%">
+
+### Learning ⚙ 
+<div align="center">  
+  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"> 
+</div>
+
+</td></tr></table>  
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/DiogoRoseira">
