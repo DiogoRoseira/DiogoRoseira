@@ -57,10 +57,10 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/DiogoRoseira">
-  <img align="left"  img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoRoseira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+![Diogo's Stats](https://github-readme-stats.vercel.app/api?username=DiogoRoseira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
   <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRoseira&layout=compact&langs_count=7&theme=dark"/>
-
+  
   ![Snake animation](https://github.com/DiogoRoseira/DiogoRoseira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
