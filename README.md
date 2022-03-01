@@ -1,7 +1,7 @@
 ### Hi there, I’m Diogo Silvino 👋
 ### Industrial Electronic Engineering and Computers at UMinho University! ⚡💻
 
-<img align="right"  height="400" src="https://cdn.discordapp.com/attachments/654349154545434647/948268965191364678/code-coding.gif">
+<img align="right"  height="390" src="https://cdn.discordapp.com/attachments/654349154545434647/948268965191364678/code-coding.gif">
 
 - 📈 2022: New projects soon
 - 🎓 Student
