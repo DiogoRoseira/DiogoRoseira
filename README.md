@@ -1,6 +1,8 @@
 ### Hi there, I’m Diogo Silvino 👋
 ### Industrial Electronic Engineering and Computers at UMinho University! ⚡💻
 
+<img align="right"  height="400" src="https://cdn.discordapp.com/attachments/654349154545434647/948268965191364678/code-coding.gif">
+
 - 📈 2022: New projects soon
 - 🎓 Student
 - ⚡ Computer and Eletronics Lover
@@ -14,9 +16,8 @@
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="29" width="35" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  height="140" width="auto" src="https://cdn.discordapp.com/attachments/654349154545434647/947993400689446912/coding.gif">
+  <img align="center" height="26" width="30" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
 </div>
 
 ### Learning ⚙
