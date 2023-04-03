@@ -2,7 +2,7 @@
 ### Industrial Electronic Engineering and Computers at UMinho University! ⚡💻
 ### MEng in Embedded Systems and Computers and Automation, Controls and Robotics by UMinho University! 🤖
 
-<img align="right"  height="380" src="https://cdn.discordapp.com/attachments/654349154545434647/948268965191364678/code-coding.gif">
+<img align="right"  height="200" src="https://cdn.discordapp.com/attachments/654349154545434647/948268965191364678/code-coding.gif">
 
 - 📈 2023: New projects soon
 - 🎓 Student
