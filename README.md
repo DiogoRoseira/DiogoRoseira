@@ -1,12 +1,6 @@
 ### Hi there, I’m Diogo Silvino 👋
-### Industrial Electronic Engineering and Computers at UMinho University! ⚡💻
-### MEng in Embedded Systems and Computers and Automation, Controls and Robotics by UMinho University! 🤖
-
-- 📈 2023: New projects soon
-- 🎓 Student
-- ⚡ Computer and Eletronics Lover
-- 💻 Programmer 
-
+### Industrial Electronic Engineering and Computers at UMinho University!
+### MEng in Embedded Systems and Computers and Automation, Controls and Robotics by UMinho University! 🤖⚡💻
 ---
 
 ## Programming Languages 
