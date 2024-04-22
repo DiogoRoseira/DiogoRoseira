@@ -3,27 +3,6 @@
 ### MEng in Embedded Systems and Computers and Automation, Controls and Robotics by UMinho University! 🤖⚡💻
 ---
 
-## Programming Languages 
-
-### Skills 😜
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" 
-src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
-  <img align="center" height="26" width="30" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
-</div>
-
-### Learning ⚙
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-</div>
-
----
-
 ## Connect with me:
 
  <a href="https://www.instagram.com/diogo_roseira/" target="_blank"><img src="https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
